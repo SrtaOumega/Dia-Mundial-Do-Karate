@@ -1,0 +1,26 @@
+.body{
+    margin-top: 0;
+
+
+
+}
+
+
+
+.header{
+    display: flex;
+    justify-content: right;
+    padding: 15px 30px;
+    background-color: black;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+    
+}
+
+.itens{
+    
+display: inline;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: aliceblue;
+
+}
+
